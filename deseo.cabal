@@ -37,7 +37,7 @@ library
         bytestring == 0.10.*,
         deepseq == 1.4.*,
         deepseq-generics == 0.2.*,
-        megaparsec == 5.0.*,
+        megaparsec >= 5.0 && < 7.0,
         mtl == 2.2.*,
         containers == 0.5.*,
         xml == 1.3.*
